@@ -1,0 +1,7 @@
+.cache/
+dist/
+node_modules/ 
+# 버전 관리를 하지 않겠다는 의미. 
+# github에 올릴때 용량이 너무 커서 좋지 않다. 
+# .gitignore을 이용
+node_modules
